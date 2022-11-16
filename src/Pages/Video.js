@@ -87,7 +87,7 @@ function Video() {
     );
 
     id.current.value=params.videoId
-
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [ref, bot]);
 
   ref.animate = () => {
