@@ -43,15 +43,13 @@ function Footer() {
                             <h6 className="text-uppercase font-weight-bold">Contact the Team!</h6>
                             <hr className="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style={{width:'65px'}}/>
                             <p><i className="fa fa-lg fa-home me-3 ms-0"></i><span className='footer-text'>IIIT Naya Raipur</span></p>
-                            <p></i><span className='footer-text'>Akshit Rana</span> </p>
-                            <p></i><span className='footer-text'>Amaan A. Kazi</span> </p>
-                            <p></i><span className='footer-text'>Kshitij K. S. Chauhan</span> </p>
+                            
                  
                         </div>
                     </div>
                 </div>
 
-                <div className="footer-copyright text-center py-3">© 2022 Copyright</div>
+                <div className="footer-copyright text-center py-3">Akshit Rana | Amaan A Kazi | Kshitij K S Chauhan</div>
             </div>
             </footer>
     )
