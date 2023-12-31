@@ -41,7 +41,7 @@ function Footer() {
 
                         <div className="col-md-4 col-lg-3 col-xl-3 mx-auto mb-md-0 mb-4">
                             <h6 className="text-uppercase font-weight-bold">Contact the Team!</h6>
-                            <hr className="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style={{width:'60px'}}/>
+                            <hr className="deep-purple accent-2 mb-4 mt-0 d-inline-block mx-auto" style={{width:'65px'}}/>
                             <p><i className="fa fa-lg fa-home me-3 ms-0"></i><span className='footer-text'>Akshit | Amaan | Kshitij</span></p>
                             <p><i className="fa fa-envelope me-3 ms-0"></i><span className='footer-text'>akshit20100@iiitnr.edu.in</span> </p>
                             <p><i className="fa fa-envelope me-3 ms-0"></i><span className='footer-text'>amaan20100@iiitnr.edu.in</span> </p>
